@@ -10,19 +10,16 @@ The manufacturing industry is looking to reduce manual monitoring and increase e
 Target Audience:
 Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
 ## Main Objectives:
-
 •	Improve production efficiency by 30%.
 •	Minimize machinery downtime with predictive maintenance.
 •	Enable real-time monitoring and remote control of manufacturing systems.
 •	Reduce energy consumption by optimizing processes.
- 
 2.	Identify Prompt Patterns for Each Design Aspect:
 Idea Generation Prompts:
 Comparative Analysis Prompt
 Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
 •	"Compare and contrast deep learning and machine learning."
 •	"How do renewable and non-renewable energy sources differ?"
-
 Experiential Perspective Prompt:
 > 	“As a software engineer, what are the benefits of using cloud computing in your projects?”
 >  “From a student’s perspective, describe the challenges of online learning.”
@@ -65,25 +62,20 @@ From a student’s perspective, online learning presents several challenges. One
 **PROMPT: How is encryption used in daily life when sending WhatsApp messages?** <BR>
 **OUTPUT:** <BR>
 Encryption is used in daily life on WhatsApp to protect messages so that only the sender and the intended receiver can read them. When you send a message, WhatsApp uses **end-to-end encryption**, which means the message is converted into a coded form using a special encryption key before it leaves your phone. This encrypted message travels through the internet and WhatsApp’s servers, but no one in between—including WhatsApp itself—can read it.
-
 Only the recipient’s phone has the matching key needed to decrypt (unlock) the message and turn it back into readable text. This process also applies to photos, videos, voice messages, documents, and calls. As a result, even if someone intercepts the data while it is being transmitted, they cannot understand it. In everyday life, this encryption ensures privacy, protects personal conversations, and prevents unauthorized access to sensitive information shared through WhatsApp.
 **4. UNIVERSAL PROMPT STRUCTURES:** <BR>
 **PROMPT: EXPLAIN MACHINE LEARNING IN SIMPLE TERMS WITH EXAMPLE** <BR>
 **OUTPUT:** <BR>
 **Machine Learning (ML)** is a way of teaching computers to learn from data and improve their performance **without being explicitly programmed** for every task.
-
 ### Simple Explanation
-
 Instead of telling a computer exactly what to do step by step, we give it **examples**, and it finds patterns on its own. The more data it sees, the better it becomes.
 
 ### Simple Example
-
 **Email Spam Filter**
 * You mark some emails as **“spam”** and others as **“not spam.”**
 * The machine learning system studies these examples.
 * It learns patterns, such as certain words, links, or senders that often appear in spam emails.
 * Next time a new email arrives, the system uses what it has learned to decide whether the email is spam or not.
-
 ### Another Everyday Example
 **YouTube or Netflix recommendations**
 
