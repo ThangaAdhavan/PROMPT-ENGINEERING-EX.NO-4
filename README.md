@@ -189,7 +189,6 @@ Think about how your email knows what's spam. You don't program it with rules li
 It notices patterns: spam emails often have certain words (like "winner," "click here," "urgent"), come from suspicious addresses, have lots of exclamation marks, or contain certain types of links. Regular emails have different patterns—they come from people you know, use normal language, and have relevant subject lines.
 
 After seeing enough examples, the machine learning system can predict whether a new email is spam, even if it's worded differently than anything it's seen before. The more emails it processes, the better it gets at recognizing spam.
-
 **Another everyday example - Netflix recommendations**:
 
 Netflix doesn't have someone manually deciding what you'd like. Instead, it learns from your viewing history and compares it with millions of other users. If you watched three romantic comedies and the system notices that people with similar viewing habits also enjoyed a particular show, it recommends that show to you.
@@ -220,7 +219,6 @@ Here are 10 AI applications across different areas:
 9. **Autocorrect and predictive text** - Your phone's keyboard uses AI to correct typos and suggest the next word as you type.
 
 10. **Social media content moderation** - Platforms like Facebook and Instagram use AI to detect and remove harmful content, hate speech, and misinformation.
-
 # COMPARISION OF RESULTS IN THE MODELS: 
 🧠 Detailed Scoring Table
 | **Category**                          | **ChatGPT (Score /100)** | **Claude-2 (Score /100)** | **Explanation**                                                                                                                                                |
@@ -235,14 +233,12 @@ Here are 10 AI applications across different areas:
 | **Prompt Adaptability (Size Limits)** | **98**                   | **92**                    | ChatGPT explicitly recognizes and adapts to prompt-size constraints (e.g., “10 at a time”). Claude-2 complies but doesn’t highlight strategy.                  |
 | **Educational Value**                 | **96**                   | **95**                    | ChatGPT is excellent for academic learning and revision. Claude-2 is excellent for conceptual understanding and reflection.                                    |
 | **Overall Consistency**               | **97**                   | **94**                    | ChatGPT maintains consistent quality, format, and tone across all prompts. Claude-2 varies slightly in length and focus.                                       |
-
 🏆 FINAL SCORE SUMMARY
 | Model        | **Total Average Score** |
 | ------------ | ----------------------- |
 | **ChatGPT**  | ⭐ **95 / 100**          |
 | **Claude-2** | ⭐ **95 / 100**          |
-
 ➡️ Result: Both models score equally high overall, but excel in different ways.
 
-# Result:
+# *Result:
 The various types of Prompts are executed successfully with generated the report.
