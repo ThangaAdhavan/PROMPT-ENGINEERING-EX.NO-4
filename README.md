@@ -2,7 +2,6 @@
 # DATE: 10 - 03 - 2026                                                                 
 # REGISTER NUMBER : 25017124 / 212225240168
 # Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
-
 ## Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
 ## Procedure:
 1.	Define the Scenario and Use Case:
@@ -10,8 +9,8 @@ Scenario:
 The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
 Target Audience:
 Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+## Main Objectives:
 
-Main Objectives:
 •	Improve production efficiency by 30%.
 •	Minimize machinery downtime with predictive maintenance.
 •	Enable real-time monitoring and remote control of manufacturing systems.
@@ -19,7 +18,6 @@ Main Objectives:
  
 2.	Identify Prompt Patterns for Each Design Aspect:
 Idea Generation Prompts:
-
 Comparative Analysis Prompt
 Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
 •	"Compare and contrast deep learning and machine learning."
@@ -36,7 +34,6 @@ Everyday Functioning Prompts:
 Universal Prompt Structures:
 ^ 	“Explain [concept] in simple terms with an example.”
 ^  “Explain the process of [task] step by step.”
-
 Prompt Size Limitations:
 &  	“Translate this 5000-word essay into Tamil.”
 → Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
@@ -59,11 +56,11 @@ Prompt Size Limitations:
 | **Accuracy**            | Good accuracy for structured data                                                            | Very high accuracy, especially for unstructured data                                             |
 | **Applications**        | Fraud detection, recommendation systems, predictive analytics                                | Image recognition, speech recognition, natural language processing                               |
 | **Examples**            | Linear Regression, K-Means, Random Forest                                                    | Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Transformers               |
+
 **2. EXPERIENTIAL PROMPTS:** <BR>
 **PROMPT: “From a student’s perspective, describe the challenges of online learning.”** <BR>
 **OUTPUT:** <BR>
 From a student’s perspective, online learning presents several challenges. One major difficulty is maintaining concentration, as studying from home often comes with distractions such as noise, mobile phones, and household responsibilities. Limited face-to-face interaction with teachers and classmates can make it harder to ask questions, participate in discussions, and feel motivated. Technical issues, including poor internet connectivity, lack of proper devices, or software problems, can interrupt classes and affect learning continuity. Time management is another challenge, as students must be more self-disciplined to attend sessions regularly and complete assignments on time. Additionally, prolonged screen time can cause eye strain, fatigue, and reduced engagement, making online learning mentally and physically demanding for many students.
-
 **3. EVERYDAY FUNCTIONING PROMPTS:** <BR>
 **PROMPT: How is encryption used in daily life when sending WhatsApp messages?** <BR>
 **OUTPUT:** <BR>
@@ -82,13 +79,12 @@ Instead of telling a computer exactly what to do step by step, we give it **exam
 ### Simple Example
 
 **Email Spam Filter**
-
 * You mark some emails as **“spam”** and others as **“not spam.”**
 * The machine learning system studies these examples.
 * It learns patterns, such as certain words, links, or senders that often appear in spam emails.
 * Next time a new email arrives, the system uses what it has learned to decide whether the email is spam or not.
-### Another Everyday Example
 
+### Another Everyday Example
 **YouTube or Netflix recommendations**
 
 * The system observes what videos or movies you watch and like.
@@ -96,7 +92,6 @@ Instead of telling a computer exactly what to do step by step, we give it **exam
 * Over time, it suggests content that matches your interests.
 
 ### In simple words:
-
 > **Machine Learning helps computers learn from experience, just like humans do, and make better decisions over time.**
 
 **5. PROMPT SIZE LIMITATIONS:** <BR>
@@ -116,18 +111,17 @@ Here are **10 AI applications (Set 1 of 5)**:
 9. **Fraud Detection** – Detecting unusual banking or credit card transactions
 10. **Machine Translation** – Google Translate and real-time language translation
 
-
 ## CLAUDE-2: 
 **1. COMPARITIVE ANALYSIS PROMPT:**  <BR>
 **PROMPT: "Compare and contrast deep learning and machine learning."** <BR> 
 **OUTPUT:** <BR>
 Deep learning and machine learning are related but distinct approaches to artificial intelligence, with deep learning being a specialized subset of machine learning.
-
 **Machine learning** is a broad field where algorithms learn patterns from data to make predictions or decisions without being explicitly programmed for every scenario. It encompasses various techniques like decision trees, random forests, support vector machines, and neural networks. Traditional machine learning often requires humans to manually identify and engineer relevant features from raw data—for instance, deciding which characteristics of an image (edges, textures, colors) are important for classification.
 
 **Deep learning** uses artificial neural networks with multiple layers (hence "deep") to automatically learn hierarchical representations of data. Instead of relying on manual feature engineering, deep learning models progressively extract increasingly abstract features through their layers. For example, in image recognition, early layers might detect edges, middle layers recognize shapes, and deeper layers identify complex objects.
 
 The key differences include:
+
 **Data requirements**: Deep learning typically needs large amounts of data to perform well, while traditional machine learning can work effectively with smaller datasets.
 
 **Computational resources**: Deep learning demands significant computational power (often GPUs), whereas many machine learning algorithms run efficiently on standard processors.
@@ -169,6 +163,7 @@ Here's how it works in practice: When you first install WhatsApp, your phone aut
 This happens for every message you send. The encryption process uses protocols like the Signal Protocol, which creates a unique encryption key for each message. So even if someone somehow intercepted one message, they couldn't use that information to decrypt your other messages.
 
 **In your daily experience**, this means several things:
+
 When you're texting sensitive information—banking details, personal conversations, medical information, or location data—it's protected from hackers, your internet service provider, government surveillance (without proper legal channels), and even WhatsApp employees.
 
 You might notice a security code or encryption notification when you start a new chat or when someone reinstalls the app. This is WhatsApp letting you know the encryption keys have been established or changed.
@@ -189,6 +184,7 @@ Think about how your email knows what's spam. You don't program it with rules li
 It notices patterns: spam emails often have certain words (like "winner," "click here," "urgent"), come from suspicious addresses, have lots of exclamation marks, or contain certain types of links. Regular emails have different patterns—they come from people you know, use normal language, and have relevant subject lines.
 
 After seeing enough examples, the machine learning system can predict whether a new email is spam, even if it's worded differently than anything it's seen before. The more emails it processes, the better it gets at recognizing spam.
+
 **Another everyday example - Netflix recommendations**:
 
 Netflix doesn't have someone manually deciding what you'd like. Instead, it learns from your viewing history and compares it with millions of other users. If you watched three romantic comedies and the system notices that people with similar viewing habits also enjoyed a particular show, it recommends that show to you.
@@ -200,6 +196,7 @@ Netflix doesn't have someone manually deciding what you'd like. Instead, it lear
 → Adjust for size: “Give me 10 AI applications at a time.”** <BR>
 **OUTPUT:** <BR>
 Here are 10 AI applications across different areas:
+
 1. **Virtual assistants** - Siri, Alexa, and Google Assistant use AI to understand voice commands and respond to questions.
 
 2. **Facial recognition** - Your smartphone uses AI to unlock with Face ID, and airports use it for security screening.
@@ -219,7 +216,9 @@ Here are 10 AI applications across different areas:
 9. **Autocorrect and predictive text** - Your phone's keyboard uses AI to correct typos and suggest the next word as you type.
 
 10. **Social media content moderation** - Platforms like Facebook and Instagram use AI to detect and remove harmful content, hate speech, and misinformation.
+
 # COMPARISION OF RESULTS IN THE MODELS: 
+
 🧠 Detailed Scoring Table
 | **Category**                          | **ChatGPT (Score /100)** | **Claude-2 (Score /100)** | **Explanation**                                                                                                                                                |
 | ------------------------------------- | ------------------------ | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -233,12 +232,13 @@ Here are 10 AI applications across different areas:
 | **Prompt Adaptability (Size Limits)** | **98**                   | **92**                    | ChatGPT explicitly recognizes and adapts to prompt-size constraints (e.g., “10 at a time”). Claude-2 complies but doesn’t highlight strategy.                  |
 | **Educational Value**                 | **96**                   | **95**                    | ChatGPT is excellent for academic learning and revision. Claude-2 is excellent for conceptual understanding and reflection.                                    |
 | **Overall Consistency**               | **97**                   | **94**                    | ChatGPT maintains consistent quality, format, and tone across all prompts. Claude-2 varies slightly in length and focus.                                       |
+
 🏆 FINAL SCORE SUMMARY
 | Model        | **Total Average Score** |
 | ------------ | ----------------------- |
 | **ChatGPT**  | ⭐ **95 / 100**          |
 | **Claude-2** | ⭐ **95 / 100**          |
+
 ➡️ Result: Both models score equally high overall, but excel in different ways.
 
-# *Result:
-The various types of Prompts are executed successfully with generated the report.
+# Result: The various types of Prompts are executed successfully with generated the report.
