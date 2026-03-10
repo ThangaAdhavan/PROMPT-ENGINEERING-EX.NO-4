@@ -61,7 +61,6 @@ Prompt Size Limitations:
 | **Accuracy**            | Good accuracy for structured data                                                            | Very high accuracy, especially for unstructured data                                             |
 | **Applications**        | Fraud detection, recommendation systems, predictive analytics                                | Image recognition, speech recognition, natural language processing                               |
 | **Examples**            | Linear Regression, K-Means, Random Forest                                                    | Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Transformers               |
-
 **2. EXPERIENTIAL PROMPTS:** <BR>
 **PROMPT: “From a student’s perspective, describe the challenges of online learning.”** <BR>
 **OUTPUT:** <BR>
@@ -73,7 +72,6 @@ From a student’s perspective, online learning presents several challenges. One
 Encryption is used in daily life on WhatsApp to protect messages so that only the sender and the intended receiver can read them. When you send a message, WhatsApp uses **end-to-end encryption**, which means the message is converted into a coded form using a special encryption key before it leaves your phone. This encrypted message travels through the internet and WhatsApp’s servers, but no one in between—including WhatsApp itself—can read it.
 
 Only the recipient’s phone has the matching key needed to decrypt (unlock) the message and turn it back into readable text. This process also applies to photos, videos, voice messages, documents, and calls. As a result, even if someone intercepts the data while it is being transmitted, they cannot understand it. In everyday life, this encryption ensures privacy, protects personal conversations, and prevents unauthorized access to sensitive information shared through WhatsApp.
-
 **4. UNIVERSAL PROMPT STRUCTURES:** <BR>
 **PROMPT: EXPLAIN MACHINE LEARNING IN SIMPLE TERMS WITH EXAMPLE** <BR>
 **OUTPUT:** <BR>
@@ -91,7 +89,6 @@ Instead of telling a computer exactly what to do step by step, we give it **exam
 * The machine learning system studies these examples.
 * It learns patterns, such as certain words, links, or senders that often appear in spam emails.
 * Next time a new email arrives, the system uses what it has learned to decide whether the email is spam or not.
-
 ### Another Everyday Example
 
 **YouTube or Netflix recommendations**
@@ -133,7 +130,6 @@ Deep learning and machine learning are related but distinct approaches to artifi
 **Deep learning** uses artificial neural networks with multiple layers (hence "deep") to automatically learn hierarchical representations of data. Instead of relying on manual feature engineering, deep learning models progressively extract increasingly abstract features through their layers. For example, in image recognition, early layers might detect edges, middle layers recognize shapes, and deeper layers identify complex objects.
 
 The key differences include:
-
 **Data requirements**: Deep learning typically needs large amounts of data to perform well, while traditional machine learning can work effectively with smaller datasets.
 
 **Computational resources**: Deep learning demands significant computational power (often GPUs), whereas many machine learning algorithms run efficiently on standard processors.
@@ -175,7 +171,6 @@ Here's how it works in practice: When you first install WhatsApp, your phone aut
 This happens for every message you send. The encryption process uses protocols like the Signal Protocol, which creates a unique encryption key for each message. So even if someone somehow intercepted one message, they couldn't use that information to decrypt your other messages.
 
 **In your daily experience**, this means several things:
-
 When you're texting sensitive information—banking details, personal conversations, medical information, or location data—it's protected from hackers, your internet service provider, government surveillance (without proper legal channels), and even WhatsApp employees.
 
 You might notice a security code or encryption notification when you start a new chat or when someone reinstalls the app. This is WhatsApp letting you know the encryption keys have been established or changed.
@@ -208,7 +203,6 @@ Netflix doesn't have someone manually deciding what you'd like. Instead, it lear
 → Adjust for size: “Give me 10 AI applications at a time.”** <BR>
 **OUTPUT:** <BR>
 Here are 10 AI applications across different areas:
-
 1. **Virtual assistants** - Siri, Alexa, and Google Assistant use AI to understand voice commands and respond to questions.
 
 2. **Facial recognition** - Your smartphone uses AI to unlock with Face ID, and airports use it for security screening.
@@ -230,7 +224,6 @@ Here are 10 AI applications across different areas:
 10. **Social media content moderation** - Platforms like Facebook and Instagram use AI to detect and remove harmful content, hate speech, and misinformation.
 
 # COMPARISION OF RESULTS IN THE MODELS: 
-
 🧠 Detailed Scoring Table
 | **Category**                          | **ChatGPT (Score /100)** | **Claude-2 (Score /100)** | **Explanation**                                                                                                                                                |
 | ------------------------------------- | ------------------------ | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
