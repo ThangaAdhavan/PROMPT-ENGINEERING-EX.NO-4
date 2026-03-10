@@ -27,7 +27,6 @@ Experiential Perspective Prompt:
 Everyday Functioning Prompts:
 *	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
 *	 	“How is encryption used in daily life when sending WhatsApp messages?”
-
 Universal Prompt Structures:
 ^ 	“Explain [concept] in simple terms with an example.”
 ^  “Explain the process of [task] step by step.”
@@ -82,7 +81,6 @@ Instead of telling a computer exactly what to do step by step, we give it **exam
 * The system observes what videos or movies you watch and like.
 * It learns your preferences.
 * Over time, it suggests content that matches your interests.
-
 ### In simple words:
 > **Machine Learning helps computers learn from experience, just like humans do, and make better decisions over time.**
 
@@ -102,7 +100,6 @@ Here are **10 AI applications (Set 1 of 5)**:
 8. **Autonomous Vehicles** – Self-driving and driver-assist systems
 9. **Fraud Detection** – Detecting unusual banking or credit card transactions
 10. **Machine Translation** – Google Translate and real-time language translation
-
 ## CLAUDE-2: 
 **1. COMPARITIVE ANALYSIS PROMPT:**  <BR>
 **PROMPT: "Compare and contrast deep learning and machine learning."** <BR> 
