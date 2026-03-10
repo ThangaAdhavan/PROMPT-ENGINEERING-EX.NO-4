@@ -228,4 +228,5 @@ Here are 10 AI applications across different areas:
 | **ChatGPT**  | ⭐ **95 / 100**          |
 | **Claude-2** | ⭐ **95 / 100**          |
 ➡️ Result: Both models score equally high overall, but excel in different ways.
+
 # Result: The various types of Prompts are executed successfully with generated the report.
